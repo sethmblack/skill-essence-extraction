@@ -4,7 +4,7 @@ description: 'Strip complexity to find the essential form beneath—the core tru
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3933
+  version: 1.0.3934
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - abstraction
